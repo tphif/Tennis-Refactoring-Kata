@@ -38,7 +38,6 @@ public class TennisGame1 implements TennisGame {
                 default:
                         score = "Deuce";
                     break;
-                
             }
         }
         else if (m_score1>=4 || m_score2>=4)
